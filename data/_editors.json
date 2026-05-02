@@ -1,18 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Exotic",
+        "link": "https://www.youtube.com/@13exoticsnipes"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Lizarazo",
+        "link": "https://www.youtube.com/@GDLizarazzo"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Angel",
+        "link": "https://www.youtube.com/channel/UCNIEluQ38ESOKhpJ-AVR8iQ"
+    },
+    {
+        "role": "helper",
+        "name": "Leidro",
+        "link": "https://www.youtube.com/@leidroclips3300"
     },
     {
         "role": "trial",
@@ -21,7 +26,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
