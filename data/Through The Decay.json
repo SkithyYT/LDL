@@ -11,8 +11,8 @@
         {
             "user": "Glob Glorp",
             "link": "https://www.youtube.com/watch?v=AmB97NQD9tM",
-            "percent": "100",
-            "hz": "60"
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
