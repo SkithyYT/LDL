@@ -8,5 +8,11 @@
     "percentToQualify": "62",
     "password": "001122",
     "records": [
+        {
+            "user": "rthomp.",
+            "link": "https://www.youtube.com/watch?v=NrO5u917hN4&list=PL0cWxostc5n6nlaEocNyVTGNDEvio3jyR&index=8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
